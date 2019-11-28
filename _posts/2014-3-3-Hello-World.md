@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初始化博客方法!
+title: 博客初始化方法
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
